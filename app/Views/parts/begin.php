@@ -12,36 +12,36 @@
 </head>
 <body class="bg-light">
 
-    <header class="container-fluid bg-success text-white p-2">
-        <div class="row">
-            <div class="col-sm-4 h5 pt-3 ps-4">Semleges Térfél</div>
-            <nav class="col-sm-8 navbar navbar-dark navbar-expand-sm justify-content-end pe-2">
-            <?php if (true): ?>
-		<ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a href="<?= base_url() ?>" class="nav-link">
-                            <i class="fa-solid fa-house-chimney"></i> Kezdőlap
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="<?= base_url('histories') ?>" class="nav-link">
-                            <i class="fa-solid fa-basketball"></i> Régi idők focija
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="<?= base_url('szobo') ?>" class="nav-link">
-                        <i class="fa-solid fa-person-running"></i> Szoboszlai Dominik
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="<?= base_url('nb_one') ?>" class="nav-link">
-                        <i class="fa-solid fa-rectangle-list"></i> NB1
-                        </a>
-                    </li>
-                </ul>
-	    <?php endif; ?>
-            </nav>
-        </div>
-    </header>
+<header class="container-fluid bg-success text-white p-2">
+    <div class="row">
+	<div class="col-sm-4 h5 pt-3 ps-4">Semleges Térfél</div>
+	<nav class="col-sm-8 navbar navbar-dark navbar-expand-sm justify-content-end pe-2">
+	<?php if (true): ?>
+	    <ul class="navbar-nav">
+		<li class="nav-item">
+		    <a href="<?= base_url() ?>" class="nav-link">
+			<i class="fa-solid fa-house-chimney"></i> Kezdőlap
+		    </a>
+		</li>
+		<li class="nav-item">
+		    <a href="<?= base_url('histories') ?>" class="nav-link">
+			<i class="fa-solid fa-basketball"></i> Régi idők focija
+		    </a>
+		</li>
+		<li class="nav-item">
+		    <a href="<?= base_url('szobo') ?>" class="nav-link">
+		    <i class="fa-solid fa-person-running"></i> Szoboszlai Dominik
+		    </a>
+		</li>
+		<li class="nav-item">
+		    <a href="<?= base_url('nb_one') ?>" class="nav-link">
+		    <i class="fa-solid fa-rectangle-list"></i> NB1
+		    </a>
+		</li>
+	    </ul>
+	<?php endif; ?>
+	</nav>
+    </div>
+</header>
 
-    <main class="container pt-4 pb-5">
+<main>

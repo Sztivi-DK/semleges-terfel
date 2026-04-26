@@ -8,6 +8,7 @@ class Pages extends BaseController
     {
     return view('parts/begin')
         . view($page)
+        . view('parts/aside')
         . view('parts/end');
     }
     public function home(): string
