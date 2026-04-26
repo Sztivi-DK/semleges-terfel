@@ -15,32 +15,32 @@
 	<tr>
 	    <th>1.</th>
 	    <td>Alfa mosás</td>
-	    <td class="table__content">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat, reprehenderit?</td>
-	    <td class="table__price">5 500 HUF</td>
+	    <td class="content">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat, reprehenderit?</td>
+	    <td class="price">5 500 HUF</td>
 	</tr>
 	<tr>
 	    <th>2.</th>
 	    <td>Béta mosás</td>
-	    <td class="table__content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla animi perspiciatis maxime aspernatur neque, ipsam quaerat, dicta at doloribus voluptates error blanditiis eius quos mollitia!</td>
-	    <td class="table__price">75 500 HUF</td>
+	    <td class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla animi perspiciatis maxime aspernatur neque, ipsam quaerat, dicta at doloribus voluptates error blanditiis eius quos mollitia!</td>
+	    <td class="price">75 500 HUF</td>
 	</tr>
 	<tr>
 	    <th>3.</th>
 	    <td>Gamma mosás</td>
-	    <td class="table__content">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati aliquam deleniti earum laudantium amet natus excepturi, mollitia sapiente optio voluptatum unde ipsa. Eos et dolorem ea explicabo accusamus minima dolores illum itaque dolorum. Hic, commodi!</td>
-	    <td class="table__price">115 500 HUF</td>
+	    <td class="content">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati aliquam deleniti earum laudantium amet natus excepturi, mollitia sapiente optio voluptatum unde ipsa. Eos et dolorem ea explicabo accusamus minima dolores illum itaque dolorum. Hic, commodi!</td>
+	    <td class="price">115 500 HUF</td>
 	</tr>
 	<tr>
 	    <th>4.</th>
 	    <td>Delta mosás</td>
-	    <td class="table__content">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias deserunt totam repudiandae eius fuga consectetur numquam nemo odit modi ducimus maxime, dolorum pariatur nihil adipisci! Consequuntur excepturi, nesciunt esse aspernatur perferendis ad at sint, hic quo eaque amet voluptatum. Sequi veritatis tenetur architecto sapiente mollitia!</td>
-	    <td class="table__price">1 150 500 HUF</td>
+	    <td class="content">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias deserunt totam repudiandae eius fuga consectetur numquam nemo odit modi ducimus maxime, dolorum pariatur nihil adipisci! Consequuntur excepturi, nesciunt esse aspernatur perferendis ad at sint, hic quo eaque amet voluptatum. Sequi veritatis tenetur architecto sapiente mollitia!</td>
+	    <td class="price">1 150 500 HUF</td>
 	</tr>
 	<tr>
 	    <th>5.</th>
 	    <td>Epszilon mosás</td>
-	    <td class="table__content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur delectus, accusantium iste est quis labore illo, expedita animi iusto adipisci voluptates tempore ab modi eligendi reprehenderit voluptatem ex fugiat nulla magni! Excepturi recusandae delectus nemo architecto consequuntur labore similique, sit quidem cupiditate rerum numquam hic deleniti tempora voluptas temporibus et voluptatem id unde repudiandae consectetur.</td>
-	    <td class="table__price">25 150 500 HUF</td>
+	    <td class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur delectus, accusantium iste est quis labore illo, expedita animi iusto adipisci voluptates tempore ab modi eligendi reprehenderit voluptatem ex fugiat nulla magni! Excepturi recusandae delectus nemo architecto consequuntur labore similique, sit quidem cupiditate rerum numquam hic deleniti tempora voluptas temporibus et voluptatem id unde repudiandae consectetur.</td>
+	    <td class="price">25 150 500 HUF</td>
 	</tr>
     </tbody>
 </table>

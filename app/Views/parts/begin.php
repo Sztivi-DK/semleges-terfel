@@ -12,36 +12,34 @@
 </head>
 <body class="bg-light">
 
-<header class="header container-fluid bg-success text-white p-2">
-    <div class="header__row row">
-	<div class="header__title col-sm-4 h5 pt-3 ps-4">Semleges Térfél</div>
-	<nav class="header__nav col-sm-8 navbar navbar-dark navbar-expand-sm justify-content-end pe-2">
-	<?php if (true): ?>
-	    <ul class="navbar-nav">
-		<li class="nav-item">
-		    <a href="<?= base_url() ?>" class="nav-link">
-			<i class="fa-solid fa-house-chimney"></i> Kezdőlap
-		    </a>
-		</li>
-		<li class="nav-item">
-		    <a href="<?= base_url('histories') ?>" class="nav-link">
-			<i class="fa-solid fa-basketball"></i> Régi idők focija
-		    </a>
-		</li>
-		<li class="nav-item">
-		    <a href="<?= base_url('szobo') ?>" class="nav-link">
-		    <i class="fa-solid fa-person-running"></i> Szoboszlai Dominik
-		    </a>
-		</li>
-		<li class="nav-item">
-		    <a href="<?= base_url('nb_one') ?>" class="nav-link">
-		    <i class="fa-solid fa-rectangle-list"></i> NB1
-		    </a>
-		</li>
-	    </ul>
-	<?php endif; ?>
-	</nav>
+<header class="container-fluid bg-success text-white py-2">
+    <div class="container">
+        <div class="row align-items-center">
+
+            <div class="col-sm-4 h5 mb-0">
+                Semleges Térfél
+            </div>
+
+            <nav class="col-sm-8">
+                <ul class="navbar-nav flex-row justify-content-end gap-3">
+                    <li class="nav-item">
+                        <a class="nav-link text-white" href="<?= base_url() ?>">Kezdőlap</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white" href="<?= base_url('histories') ?>">Régi idők</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white" href="<?= base_url('szobo') ?>">Szoboszlai</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white" href="<?= base_url('nb_one') ?>">NB1</a>
+                    </li>
+                </ul>
+            </nav>
+
+        </div>
     </div>
 </header>
 
-<main class="layout__main app-main">
+<main class="container my-4">
+    <div class="row g-4">
