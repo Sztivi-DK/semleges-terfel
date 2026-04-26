@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Semleges Térfél</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="<?= base_url('style.css') ?>">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
     <link rel="stylesheet" href="ckeditor5/ckeditor5.css">
@@ -35,11 +36,6 @@
                     <li class="nav-item">
                         <a href="<?= base_url('nb_one') ?>" class="nav-link">
                         <i class="fa-solid fa-rectangle-list"></i> NB1
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="<?= base_url('logout') ?>" class="nav-link">
-                        <i class="fa-solid fa-door-open"></i> Kilépés
                         </a>
                     </li>
                 </ul>

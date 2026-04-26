@@ -1,6 +1,23 @@
 </main>
-    <footer class="container-fluid bg-secondary p-2 text-center">
-	Mindörökké magyar labdarúgás!
+    <footer>
+
+	<div class="container"> 
+	<section>
+	    <p>
+		<strong>Semleges Térfél</strong> <!-- Kiemelés, vastagon szedett -->
+		<br> <!-- Sortörés, azaz egymás alá, külön sorban kerül; a szöveg után teszem -->
+		1234 Város, Utca neve 10/A <br>
+		+36 30 123 4567 <br>
+		semlegesterfel.com
+	    </p>
+	</section>
+	<section>	    
+	    <ul>
+		<li><a href="https://youtube.com/@magyarfocifeherenfeketen" target="_blank">Youtube</a></li> 
+		<li><a href="https://facebook.com/SemlegesTerfel/" target="_blank">Facebook</a></li>
+	    </ul>
+	</section>
+	</div>
     </footer>
 </body>
 </html>
