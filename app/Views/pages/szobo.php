@@ -1,21 +1,31 @@
 <h1>Szoboszlai Dominik</h1>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit rerum voluptate pariatur sunt minus ullam cum molestias, vel architecto iure ipsam, nostrum veniam reiciendis magnam unde quaerat ex! Aperiam, deleniti?</p>
 
-<ul class="gallery">
-    <li>
-	<a><p>Gyönyörű fa a mező közepén</p></a>  
+<ul class="list-unstyled row g-3">
+    <li class="col-6 col-md-4">
+	<div class="p-2 bg-white rounded shadow-sm">
+	    <p>Gyönyörű fa a mező közepén</p>
+	</div>
     </li>
-    <li>
-	<a><p>Grandiozus kék vízesések</p></a>  
+    <li class="col-6 col-md-4">
+	<div class="p-2 bg-white rounded shadow-sm">
+	    <p>Grandiozus kék vízesések</p>
+	</div>
     </li>
-    <li>
-	<a><p>Távoli hegyek a fenyőerdőn túl</p></a>    
+    <li class="col-6 col-md-4">
+	<div class="p-2 bg-white rounded shadow-sm">
+	    <p>Távoli hegyek a fenyőerdőn túl</p>
+	</div>
     </li>
-    <li>
-	<a><p>Forrás a hegyek között</p></a>
+    <li class="col-6 col-md-4">
+	<div class="p-2 bg-white rounded shadow-sm">
+	    <p>Forrás a hegyek között</p>
+	</div>
     </li>
-    <li>
-	<a><p>Fa a naplementében</p></a>
+    <li class="col-6 col-md-4">
+	<div class="p-2 bg-white rounded shadow-sm">
+	    <p>Fa a naplementében</p>
+	</div>
     </li>
 </ul>
 

@@ -1,7 +1,7 @@
 <h1>Régi idők focija</h1>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit rerum voluptate pariatur sunt minus ullam cum molestias, vel architecto iure ipsam, nostrum veniam reiciendis magnam unde quaerat ex! Aperiam, deleniti?</p>
 
-<table> 
+<table class="table table-hover table-striped"> 
     <thead>
 	<tr>
 	    <th>Ssz</th>
