@@ -29,7 +29,7 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a href="<?= base_url('szoboszlaj') ?>" class="nav-link">
+                        <a href="<?= base_url('szobo') ?>" class="nav-link">
                         <i class="fa-solid fa-person-running"></i> Szoboszlai Dominik
                         </a>
                     </li>
