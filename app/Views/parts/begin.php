@@ -12,10 +12,10 @@
 </head>
 <body class="bg-light">
 
-<header class="container-fluid bg-success text-white p-2">
-    <div class="row">
-	<div class="col-sm-4 h5 pt-3 ps-4">Semleges Térfél</div>
-	<nav class="col-sm-8 navbar navbar-dark navbar-expand-sm justify-content-end pe-2">
+<header class="header container-fluid bg-success text-white p-2">
+    <div class="header__row row">
+	<div class="header__title col-sm-4 h5 pt-3 ps-4">Semleges Térfél</div>
+	<nav class="header__nav col-sm-8 navbar navbar-dark navbar-expand-sm justify-content-end pe-2">
 	<?php if (true): ?>
 	    <ul class="navbar-nav">
 		<li class="nav-item">
@@ -44,4 +44,4 @@
     </div>
 </header>
 
-<main>
+<main class="layout__main app-main">

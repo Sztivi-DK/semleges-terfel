@@ -1,13 +1,13 @@
-<aside>
-    <section>
-        <h3>Kiemelt cikk</h3>
+<aside class="sidebar">
+    <section class="sidebar__section sidebar__section--featured">
+        <h3 class="sidebar__title">Kiemelt cikk</h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia dignissimos in similique id temporibus iste vel, ratione fuga eligendi tempora et, ex ullam aperiam beatae dolore facilis harum praesentium accusantium!</p>
         <a href="">Elolvasom</a>
     </section>
     
     <section>
         <h3>Partenerink</h3>
-        <ul>
+        <ul class="sidebar__list">
             <li>Alfa Aluminium Kft. - Az Aluminium atyja</li>
             <li>Béta Baracklekvár Bt. - A gyümölcsöző jövő</li>
             <li>Gamma Gördeszka Rt. - A gördülő akarat</li>

@@ -2,19 +2,19 @@
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit rerum voluptate pariatur sunt minus ullam cum molestias, vel architecto iure ipsam, nostrum veniam reiciendis magnam unde quaerat ex! Aperiam, deleniti?</p>
 
 <ul class="gallery">
-    <li>
+    <li class="gallery__item">
 	<a><p>Gyönyörű fa a mező közepén</p></a>  
     </li>
-    <li>
+    <li class="gallery__item">
 	<a><p>Grandiozus kék vízesések</p></a>  
     </li>
-    <li>
+    <li class="gallery__item">
 	<a><p>Távoli hegyek a fenyőerdőn túl</p></a>    
     </li>
-    <li>
+    <li class="gallery__item">
 	<a><p>Forrás a hegyek között</p></a>
     </li>
-    <li>
+    <li class="gallery__item">
 	<a><p>Fa a naplementében</p></a>
     </li>
 </ul>

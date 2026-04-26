@@ -2,7 +2,7 @@
     <footer>
 
 	<div class="container"> 
-	<section>
+	<section class="footer__section">
 	    <p>
 		<strong>Semleges Térfél</strong> <!-- Kiemelés, vastagon szedett -->
 		<br> <!-- Sortörés, azaz egymás alá, külön sorban kerül; a szöveg után teszem -->
@@ -11,7 +11,7 @@
 		semlegesterfel.com
 	    </p>
 	</section>
-	<section>	    
+	<section class="footer__section">	    
 	    <ul>
 		<li><a href="https://youtube.com/@magyarfocifeherenfeketen" target="_blank">Youtube</a></li> 
 		<li><a href="https://facebook.com/SemlegesTerfel/" target="_blank">Facebook</a></li>
