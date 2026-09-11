@@ -1,5 +1,5 @@
 </main>
-    <footer class="bg-light py-4 text-center text-muted">
+    <footer class="bg-success py-4 text-center text-white">
 	<div class="container">
 	    <div class="row justify-content-around align-items-center"> 
 		<div class="col-md-6 mb-3">	    
@@ -11,9 +11,9 @@
 		</div>
 		<div class="col-md-6">	    
 		    <ul class="list-unstyled">
-			<li><a href="https://youtube.com/@magyarfocifeherenfeketen" target="_blank" class="text-muted">Youtube</a>
+			<li><a href="https://youtube.com/@magyarfocifeherenfeketen" target="_blank" class="text-white">Youtube</a>
 			</li> 
-			<li><a href="https://facebook.com/SemlegesTerfel/" target="_blank" class="text-muted">Facebook</a>
+			<li><a href="https://facebook.com/SemlegesTerfel/" target="_blank" class="text-white">Facebook</a>
 			</li>
 		    </ul>
 		</div>
